@@ -16,6 +16,10 @@
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3ZoTx6pNX2LC3qMdugERV9zW7g2NnlgpyhKXlnUnSQ&s",
 "url": "https://vlink.lol/vfm/play/etelio/W3U/Zona_Deportiva.txt"},
  
-{"name": "INFANTIL",
+{"name": "INFANTILES",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHMDpcOWvTC1eKzPhhlwNJq5Cp943i8gBwA&usqp=CAU",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Infantil.txt"}]},
+"url": "https://vlink.lol/vfm/play/etelio/W3U/Infantil.txt"},
+
+{"name": "CULTURALES",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMUWwJ6XN3oqJDcmXmrAYX2IcSo5CCKPWXw15Fm_D-Nw&s",
+"url": "https://vlink.lol/vfm/play/etelio/W3U/Cultural.txt"}]},
