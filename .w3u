@@ -8,10 +8,6 @@
 "image": "https://img.freepik.com/vector-premium/banner-cine-cine_108855-11.jpg",
 "url": "https://vlink.lol/vfm/play/etelio/W3U/Cinevip.txt"},
 
-{"name": "COLOMBIA",
-"image": "https://i.revistapym.com.co/old/2016/09/Colombia3OK-1.png",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Colombia.txt"},
-
 {"name": "DEPORTES",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3ZoTx6pNX2LC3qMdugERV9zW7g2NnlgpyhKXlnUnSQ&s",
 "url": "https://vlink.lol/vfm/play/etelio/W3U/Zona_Deportiva.txt"},
@@ -22,4 +18,12 @@
 
 {"name": "CULTURALES",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIX7gubUvafEC1fugpPpygZ7qig4KNh4snwg&usqp=CAU",
-"url": "https://vlink.lol/vfm/play/etelio/W3U/Cultural.txt"}]},
+"url": "https://vlink.lol/vfm/play/etelio/W3U/Cultural.txt"},
+
+{"name": "COLOMBIA",
+"image": "https://i.revistapym.com.co/old/2016/09/Colombia3OK-1.png",
+"url": "https://vlink.lol/vfm/play/etelio/W3U/Colombia.txt"},
+
+{"name": "INFORMACIÓN IMPORTANTE",
+"image": "https://i.ibb.co/TPMqJ72/atencion.png",
+"url": "https://vlink.lol/vfm/play/etelio/W3U/Colombia.txt"}]},
